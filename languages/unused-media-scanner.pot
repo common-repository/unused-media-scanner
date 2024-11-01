@@ -1,0 +1,179 @@
+# Copyright (C) 2024 1wl.agency
+# This file is distributed under the GPLv3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Unused Media Scanner 0.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/unused-media-scanner\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-02-19T15:30:33+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: unused-media-scanner\n"
+
+#. Plugin Name of the plugin
+#: unused-media-scanner.php:37
+#: unused-media-scanner.php:49
+msgid "Unused Media Scanner"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/unused-media-scanner/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Find and remove media that is unused in your WordPress website"
+msgstr ""
+
+#. Author of the plugin
+msgid "1wl.agency"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://1wl.agency/unused-media-scanner/"
+msgstr ""
+
+#: includes/scanner/scanner-tools-functions.php:30
+msgid "You must log in to scan"
+msgstr ""
+
+#: includes/scanner/scanner-tools-functions.php:227
+msgid "You must log in to delete"
+msgstr ""
+
+#: includes/scanner/tab-fsscanner-tools.php:1
+msgid "Scan for media images left on the file system"
+msgstr ""
+
+#: includes/scanner/tab-fsscanner-tools.php:3
+msgid "The filesystem scanner is in development."
+msgstr ""
+
+#: includes/scanner/tab-help.php:1
+msgid "Unused Media Scanner Help"
+msgstr ""
+
+#: includes/scanner/tab-help.php:3
+msgid "For full details of this plugin including its features, instructions on how to use it, and the changelog, please <a href=\"https://1wl.agency/services/wordpress-plugins/unused-media-scanner\" target=\"_blank\">visit this link</a>."
+msgstr ""
+
+#: includes/scanner/tab-info.php:1
+msgid "Site Info"
+msgstr ""
+
+#: includes/scanner/tab-info.php:3
+msgid ""
+"Each time you upload an image to the Media Library, WordPress duplicates and resizes it.<br /><br />\r\n"
+"Below is a list of all the versions it creates along with the name of that version and its dimensions (Width x Height) in pixels:"
+msgstr ""
+
+#: includes/scanner/tab-scanner-tools.php:1
+msgid "Scan for unused images in the media library"
+msgstr ""
+
+#: includes/scanner/tab-scanner-tools.php:2
+msgid "NOTE:"
+msgstr ""
+
+#: includes/scanner/tab-scanner-tools.php:3
+msgid "Before using this plugin, please ensure you create a full website backup (database and all files). We also recommend testing the plugin on an offline copy of your website, before running it on Live."
+msgstr ""
+
+#: includes/scanner/tab-scanner-tools.php:5
+msgid "Currently the previews will only show images, but other files will still appear without a preview."
+msgstr ""
+
+#: includes/scanner/tab-scanner-tools.php:13
+msgid "Run library scan"
+msgstr ""
+
+#: includes/scanner/tab-scanner-tools.php:17
+msgid "Unused results"
+msgstr ""
+
+#: includes/scanner/tab-scanner-tools.php:18
+msgid "Used results"
+msgstr ""
+
+#: includes/scanner/tab-scanner-tools.php:21
+msgid "Unused images"
+msgstr ""
+
+#: includes/scanner/tab-scanner-tools.php:24
+msgid "Delete selected"
+msgstr ""
+
+#: includes/scanner/tab-scanner-tools.php:28
+msgid "Permanently delete"
+msgstr ""
+
+#: includes/scanner/tab-scanner-tools.php:37
+msgid "Used images"
+msgstr ""
+
+#: unused-media-scanner.php:59
+msgid "Scanner"
+msgstr ""
+
+#: unused-media-scanner.php:60
+msgid "Filesystem Scanner"
+msgstr ""
+
+#: unused-media-scanner.php:61
+msgid "Info"
+msgstr ""
+
+#: unused-media-scanner.php:62
+msgid "Help"
+msgstr ""
+
+#: assets/script.js:49
+#: assets/script.js:66
+#: assets/script.js:122
+msgid "ID"
+msgstr ""
+
+#: assets/script.js:51
+#: assets/script.js:124
+msgid "URL"
+msgstr ""
+
+#: assets/script.js:53
+#: assets/script.js:126
+msgid "URL Bare"
+msgstr ""
+
+#: assets/script.js:61
+msgid "References"
+msgstr ""
+
+#: assets/script.js:68
+msgid "Type"
+msgstr ""
+
+#: assets/script.js:70
+msgid "Title"
+msgstr ""
+
+#: assets/script.js:72
+msgid "Edit"
+msgstr ""
+
+#: assets/script.js:95
+msgid "Edit item"
+msgstr ""
+
+#: assets/script.js:173
+msgid "Are you sure you want to delete "
+msgstr ""
+
+#: assets/script.js:175
+msgid " images? This is a descructive action and cannot be reversed. Please wait until the process has completed before navigating away from this page."
+msgstr ""
+
+#: assets/script.js:197
+msgid " images deleted"
+msgstr ""
